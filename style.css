@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+.div{
+    margin: 30px;
+    padding: 30px;
+    align-items: center;
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    border: 20px;
+    justify-content: center;
+}
+
+  .div p{ 
+    background-color: white;
+    border-radius: 20px;
+    margin: 30px;
+    padding: 30px;
+  }
